@@ -1,6 +1,8 @@
 # mtm-dark-theme
 Mattermost dark theme
 
+![mtm-dark-theme Preview](mtm-dark-theme.png)
+
 ```
 {
 	"sidebarBg": "#393939",
